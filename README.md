@@ -1,2 +1,2 @@
 # ML-ARCH
-Replicating Olmsted's design style
+Replicating Olmsted's park design using an evolutionary algorithm
